@@ -20,7 +20,7 @@
 	echo '<div class="seocrawler-top-search-submit"><i class="fa fa-search" ></i></div>';
 	echo '<input type="submit" class="search-submit" value="Search">';
 	echo '</form>';
-	echo '<div class="seocrawler-not-found-back-to-home" ><a href="' . esc_url(home_url('/')) . '" >' . esc_html__('Or Back To Homepage', 'seocrawler') . '</a></div>';
+	echo '<div class="seocrawler-not-found-back-to-home" ><a href="' . esc_url(home_url('/')) . '" >' . esc_html__('Or Back Tto Homepage', 'seocrawler') . '</a></div>';
 	echo '</div>'; // seocrawler-not-found-content
 
 	echo '</div>'; // seocrawler-not-found-container
