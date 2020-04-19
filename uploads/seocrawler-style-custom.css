@@ -155,7 +155,7 @@ body.single-post .seocrawler-sidebar-style-none, body.blog .seocrawler-sidebar-s
 .seocrawler-top-cart-content-wrap .seocrawler-top-cart-content{ background-color: #303030; } 
 .seocrawler-top-cart-content-wrap .seocrawler-top-cart-content span, .seocrawler-top-cart-content-wrap .seocrawler-top-cart-content span.woocommerce-Price-amount.amount{ color: #b5b5b5; } 
 .seocrawler-top-cart-content-wrap .seocrawler-top-cart-button,.seocrawler-top-cart-content-wrap .seocrawler-top-cart-button:hover{ color: #ffffff; } 
-.seocrawler-top-cart-content-wrap .seocrawler-top-cart-checkout-button, .seocrawler-top-cart-content-wrap .seocrawler-top-cart-checkout-button:hover{ color: #e5536c; } 
+.seocrawler-top-cart-content-wrap .seocrawler-top-cart-checkout-button, .seocrawler-top-cart-content-wrap .seocrawler-top-cart-checkout-button:hover{ color: #102e68; } 
 .seocrawler-body .seocrawler-breadcrumbs, .seocrawler-body .seocrawler-breadcrumbs a span{ color: #c0c0c0; } 
 .seocrawler-body .seocrawler-breadcrumbs span, .seocrawler-body .seocrawler-breadcrumbs a:hover span{ color: #777777; } 
 .sf-menu > li > a, .sf-vertical > li > a{ color: #ffffff; } 
@@ -178,9 +178,9 @@ ul.mm-listview li{ border-color: #626262; }
 .seocrawler-bullet-anchor a:before{ background-color: #777777; } 
 .seocrawler-bullet-anchor a:hover, .seocrawler-bullet-anchor a.current-menu-item{ border-color: #ffffff; }.seocrawler-bullet-anchor a:hover:before, .seocrawler-bullet-anchor a.current-menu-item:before{ background: #ffffff; } 
 .seocrawler-body .seocrawler-main-menu-right-button{ color: #ffffff; } 
-.seocrawler-body .seocrawler-main-menu-right-button{ background-color: #e5536c; } 
-.seocrawler-body .seocrawler-main-menu-right-button:hover{ color: #e5536c; } 
-.seocrawler-body .seocrawler-main-menu-right-button:hover{ background-color: #ffffff; } 
+.seocrawler-body .seocrawler-main-menu-right-button{ background-color: #0a2a3f; } 
+.seocrawler-body .seocrawler-main-menu-right-button:hover{ color: #ffffff; } 
+.seocrawler-body .seocrawler-main-menu-right-button:hover{ background-color: #003e59; } 
 .seocrawler-body-outer-wrapper, body.seocrawler-full .seocrawler-body-wrapper, .seocrawler-header-side-content{ background-color: #ffffff; } 
 body.seocrawler-boxed .seocrawler-body-wrapper, .gdlr-core-page-builder .gdlr-core-page-builder-body.gdlr-core-pb-livemode{ background-color: #ffffff; } 
 .seocrawler-page-title-wrap .seocrawler-page-title{ color: #ffffff; } 
